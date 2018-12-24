@@ -5,7 +5,7 @@ class ChattyStudent < Student
   end
 
   def hello
-    
+
   end
 
 
